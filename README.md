@@ -1,4 +1,4 @@
-# [Moved to https://github.com/nrobinson2000/cehscoding](https://github.com/nrobinson2000/cehscoding)
+# [Moved to nrobinson2000/cehscoding](https://github.com/nrobinson2000/cehscoding)
 
 # How to make a blog post
 
